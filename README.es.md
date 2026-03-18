@@ -1,5 +1,6 @@
 <!-- hide -->
 # El Post de Instagram 
+Realizar en pocos pasos
 <!-- endhide -->
 
 Instagram es una de las interfaces de usuario más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com.
